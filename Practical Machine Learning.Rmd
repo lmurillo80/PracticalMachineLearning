@@ -1,7 +1,8 @@
-
+---
 title: "Practical Machine Learning"
 author: "Luis Murillo"
 date: "May 29th 2018"
+---
 
  
 ## Summary
